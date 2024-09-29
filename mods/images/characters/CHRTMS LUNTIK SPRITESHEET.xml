@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="CHRTMS LUNTIK SPRITESHEET.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0000" x="5" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0001" x="324" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0002" x="643" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0003" x="962" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0004" x="1281" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0005" x="1600" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0006" x="1919" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0007" x="2238" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK DOWN POSE0008" x="2557" y="5" width="314" height="424"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0000" x="2876" y="5" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0001" x="3191" y="5" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0002" x="3506" y="5" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0003" x="5" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0004" x="320" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0005" x="635" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0006" x="950" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0007" x="1265" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0008" x="1580" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0009" x="1895" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK IDLE DANCE0010" x="2210" y="482" width="310" height="472"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0000" x="2525" y="482" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0001" x="2836" y="482" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0002" x="3147" y="482" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0003" x="3458" y="482" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0004" x="3769" y="482" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0005" x="5" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0006" x="316" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0007" x="627" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0008" x="938" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0009" x="1249" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK LEFT POSE0010" x="1560" y="968" width="306" height="481"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0000" x="1871" y="968" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0001" x="2429" y="968" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0002" x="2987" y="968" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0003" x="5" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0004" x="563" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0005" x="1121" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0006" x="1679" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0007" x="2237" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0008" x="2795" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0009" x="3353" y="1540" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0010" x="5" y="2112" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0011" x="563" y="2112" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0012" x="1121" y="2112" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK MISS POSE ALL0013" x="1679" y="2112" width="553" height="567"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0000" x="2237" y="2112" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0001" x="2576" y="2112" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0002" x="2915" y="2112" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0003" x="3254" y="2112" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0004" x="3593" y="2112" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0005" x="5" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0006" x="344" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0007" x="683" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0008" x="1022" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0009" x="1361" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK RIGHT POSE0010" x="1700" y="2684" width="334" height="473"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0000" x="2039" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0001" x="2379" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0002" x="2719" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0003" x="3059" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0004" x="3399" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0005" x="3739" y="2684" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0006" x="5" y="3162" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0007" x="345" y="3162" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0008" x="685" y="3162" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0009" x="1025" y="3162" width="335" height="467"/>
+	<SubTexture name="CHRSTMS LUNTIK UP POSE0010" x="1365" y="3162" width="335" height="467"/>
+</TextureAtlas>

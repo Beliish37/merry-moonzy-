@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="suslunt.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frei0000" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0001" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0002" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0003" x="792" y="0" width="792" height="375"/>
+	<SubTexture name="frei0004" x="792" y="0" width="792" height="375"/>
+	<SubTexture name="frei0005" x="792" y="0" width="792" height="375"/>
+	<SubTexture name="frei0006" x="0" y="375" width="792" height="375"/>
+	<SubTexture name="frei0007" x="0" y="375" width="792" height="375"/>
+	<SubTexture name="frei0008" x="0" y="375" width="792" height="375"/>
+	<SubTexture name="frei0009" x="792" y="375" width="792" height="375"/>
+	<SubTexture name="frei0010" x="792" y="375" width="792" height="375"/>
+	<SubTexture name="frei0011" x="792" y="375" width="792" height="375"/>
+	<SubTexture name="frei0012" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0013" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0014" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0015" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0016" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0017" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0018" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0019" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0020" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0021" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0022" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0023" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0024" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0025" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0026" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0027" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0028" x="0" y="0" width="792" height="375"/>
+	<SubTexture name="frei0029" x="0" y="0" width="792" height="375"/>
+</TextureAtlas>

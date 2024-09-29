@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CHRSTMS LUNTIK IDLE DANCE"
+		},
+		{
+			"offsets": [
+				3,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CHRSTMS LUNTIK LEFT POSE"
+		},
+		{
+			"offsets": [
+				-62,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CHRSTMS LUNTIK DOWN POSE"
+		},
+		{
+			"offsets": [
+				-1,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CHRSTMS LUNTIK UP POSE"
+		},
+		{
+			"offsets": [
+				-51,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CHRSTMS LUNTIK RIGHT POSE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CHRTMS LUNTIK SPRITESHEET",
+	"position": [
+		-40,
+		270
+	],
+	"healthicon": "chrtms",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		134,
+		157
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
